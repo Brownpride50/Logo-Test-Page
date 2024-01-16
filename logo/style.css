@@ -1,11 +1,11 @@
 body {
     margin: 0;
-    background-color: rgb(227, 227, 214);
+    background-color: rgb(209, 209, 205);
 }
 
 .logo-header {
-    background-color: #bab9b5;
-    height: 105px;
+    background-color: #8a8a89;
+    height: 245px;
 }
 
 .logo {
@@ -13,7 +13,7 @@ body {
 }
 
 img {
-    margin-top: -21px;
-    height:165px;
+    margin-top: -27px;
+    height: 350px;
 
 }
